@@ -1,0 +1,2 @@
+# StumbleUpon-Evergreen-Challenge
+This is a kaggle problem challenge where the problem dealt with webpage classification, the performace was dominated by the features of webpage text, as it gave max relevant features. We had to use NLP methods - owing to the brilliance of sklearn package, we could use the TFID techniques to vectorize our inputs. Since a problem of NLP at its best, The TFID approach was tuned with different parameters like different n-grams,norm, df, token patterns, customized tokenizers.
